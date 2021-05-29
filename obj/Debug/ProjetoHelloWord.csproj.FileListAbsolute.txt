@@ -1,0 +1,11 @@
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\bin\Debug\ProjetoHelloWord.exe.config
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\bin\Debug\ProjetoHelloWord.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\bin\Debug\ProjetoHelloWord.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.FormLogin.resources
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.Properties.Resources.resources
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.FormMenu.resources

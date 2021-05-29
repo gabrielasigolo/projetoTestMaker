@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\bin\Debug\bancoTestMaker.mdf
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\bin\Debug\bancoTestMaker_log.ldf
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\bin\Debug\ProjetoHelloWord.exe.config
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\bin\Debug\ProjetoHelloWord.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\bin\Debug\ProjetoHelloWord.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoProva-DESKTOP-E3L2KL9.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.FormLogin.resources
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.FormInicio.resources
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.Properties.Resources.resources
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoProva-DESKTOP-E3L2KL9.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoProva-DESKTOP-E3L2KL9.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.FormCadastro.resources
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\ProjetoHelloWord\obj\Debug\ProjetoHelloWord.CriacaoProva.resources
